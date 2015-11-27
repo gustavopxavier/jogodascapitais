@@ -1,0 +1,2 @@
+alert("Vamos iniciar o treino de Geografia? :) ");
+alert("Coloque o mouse em cima de cada estado para aparecer o nome do mesmo. Pense qual  é a capital daquele estado e depois clique em cima dele para ver se você pensou e acertou a capital daquele estado. Bom treino de Geografia. :) ");
